@@ -1,0 +1,58 @@
+body{
+background-color: lightyellow;
+font-size: 20px;
+font-family:'Times New Roman', Times, serif;
+margin: 20px;
+padding-bottom: 20px;
+padding-left: 40px;
+}
+
+.opening{
+    text-align: center;
+    color: steelblue;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.recipes-list{
+    display:block;
+    padding-right:20px;
+}
+
+img{
+    border-radius: 8px;
+    width: 310px;
+    height: auto;
+    display: block;
+}
+
+.body-content{
+    display: block;
+    width: 800px;
+    height: auto;
+    text-align: justify;
+}
+
+.content-titile{
+    color: steelblue;
+    font-size: 24px;
+}
+
+ol,
+ul{
+    line-height: 1.5;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.ingredient-name{
+    color: blueviolet;
+    font-style: oblique;
+}
+
+.ingredient-quantity{
+    font-weight: bold;
+    text-decoration:underline; 
+}
